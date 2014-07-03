@@ -1,7 +1,7 @@
 {
     "name": "s3policy",
     "description": "S3 Upload Policy Generator for Meteor",
-    "homepage": "",
+    "homepage": "https://github.com/flowkey/s3policy.git",
     "author": "Ahmed Hassan med@flowkey.com (http://www.flowkey.com)",
     "version": "0.0.1",
     "git": "https://github.com/flowkey/s3policy.git",
