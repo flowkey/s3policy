@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "s3policy": {
+      "version": "0.0.1"
+    }
+  }
+}
